@@ -1,18 +1,18 @@
-# Project Name - *Instapic*
+# Project Name - *Insta_Photo*
 
-**Instapic** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Insta_Photo** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 ## User Stories
 
-- [x] User can view the last 20 posts submitted to Instapic.
-- [x] User can pull to refresh the last 20 posts submitted to Instapic.
+- [x] User can view the last 20 posts submitted to Insta_Photo.
+- [x] User can pull to refresh the last 20 posts submitted to Insta_Photo.
 - [x] The user can switch between different tabs - viewing all posts (feed view), capture (camera and photo gallery view) and profile tabs (posts made) using fragments and a Bottom Navigation View.
 
 ## Video Walkthrough
-
+  
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ovezovs/Instagram/blob/master/demo-instapic.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/molenathyhoangxuannguyen/Instagram_Photo_Capture/blob/master/Instademo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
