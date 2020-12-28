@@ -1,6 +1,6 @@
-# Project Name - *InstagramWithMe*
+# Project Name - *InstagramShootingHabitApp*
 
-**InstagramWithMe** is a photo sharing app similar to Instagram but using Parse as its backend.
+**InstagramShootingHabitApp (or shortly called InstagramSha)** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 ## User Stories
 
