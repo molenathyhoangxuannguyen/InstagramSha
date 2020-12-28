@@ -1,11 +1,11 @@
-# Project Name - *InstagramShootingHappyApp*
+# Project Name - *InstagramShootingwithHappinessApp*
 
-**InstagramShootingHappyApp (or shortly called InstagramSha)** is a photo sharing app similar to Instagram but using Parse as its backend.
+**InstagramShootingwithHappinessApp (or shortly called InstagramSha)** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 ## User Stories
 
-- [x] User can view the last 20 posts submitted to InstagramShootingHappyApp.
-- [x] User can pull to refresh the last 20 posts submitted to InstagramShootingHappyApp.
+- [x] User can view the last 20 posts submitted to InstagramShootingwithHappinessApp.
+- [x] User can pull to refresh the last 20 posts submitted to InstagramShootingwithHappinessApp.
 - [x] The user can switch between different tabs - viewing all posts (feed view), capture (camera and photo gallery view) and profile tabs (posts made) using fragments and a Bottom Navigation View.
 
 ## Video Walkthrough
