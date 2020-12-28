@@ -1,6 +1,6 @@
-# Project Name - *InstagramSha*
+# Project Name - *InstagramWithMe*
 
-**InstagramSha** is a photo sharing app similar to Instagram but using Parse as its backend.
+**InstagramWithMe** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 ## User Stories
 
