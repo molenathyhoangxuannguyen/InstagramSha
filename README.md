@@ -24,8 +24,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright 2020 Molena (Thy) Hoang-Xuan Nguyen
-
+    Copyright 2020 T. H. Molena Nguyen
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
